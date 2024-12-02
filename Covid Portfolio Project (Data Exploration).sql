@@ -1,6 +1,8 @@
+--the data is taken from https://ourworldindata.org/covid-deaths
+
 --select *
--- from dbo.[Сovid-deaths]
--- order by 3, 4
+--from dbo.[Сovid-deaths]
+--order by 3, 4
 
  --select *
  --from dbo.[Сovid-vaccinations]
